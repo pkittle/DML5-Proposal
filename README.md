@@ -1,5 +1,5 @@
-Digital Media + Learning Competition 5 - Proposal
-====
+##Digital Media + Learning Competition 5 - Proposal
+
 
 This is a proposal for the Project: Connect - Summer Youth Programming competition.  There is a possible $10,000 award.  This project is sponsored by [The John D. & Catherine T. MacArthur Foundation](http://www.macfound.org/) in partnership with [The Mozilla Foundation](http://www.mozilla.org/foundation/), [The Born This Way Foundation](http://bornthiswayfoundation.org/), [Facebook](https://www.facebook.com/), and [The Family Online Safety Institute](http://www.fosi.org/).  It is administered by [HASTAC (the Humanities, Arts, Science & Technology Advanced Collaboratory)](http://www.hastac.org/). 
 
