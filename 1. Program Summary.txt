@@ -1,3 +1,20 @@
-1. Program summary (300 words max, required)
+> 1. Program summary (300 words max, required)
 
-Provide a brief summary of the proposed program, including proposed location, target age group, and number of attendees. The summary should be written in language that could be used to announce the program to potential participants, through social media and on websites. This section of the application will be made public for comments, feedback, and voting.
+> Provide a brief summary of the proposed program, including proposed location, target age group, and number of attendees. The summary should be written in language that could be used to announce the program to potential participants, through social media and on websites. This section of the application will be made public for comments, feedback, and voting.
+
+The **Northern California Writing Project**, a program of the Research
+Foundation at California State University, Chico, proposes to hold a 3-day [Hackathon](http://en.wikipedia.org/wiki/Hackathon) for students in or entering high school. The focus of the program will be on investigating, creating, and remixing content and content-creation tools, with particular attention to the ways that such knowledge enhances participants' civic engagement with face-to-face and online communities. 
+
+<!-- I think that we should add a list of some of the tools that we might use.  It ought to attract attention.  What's hot? What's good? -->
+
+Participants will use tools such as Mozilla's Thimble and Popcorn to create, publish, and share work on the web.  We we explore the role social media has in creative learning and attempt to leverage tools such as Twitter, Google+, Facebook, etc.  to collaborate on projects.  
+
+Participants will get out into the Chico community to explore and research and learn to share their findings with the larger community via the web.  We will explore how share information "openly" can help improve access to coolness in the real world.
+
+
+<!-- Other ideas -->
+
+- [ ] Google Maps
+- [ ] OpenStreetMap
+- [ ] Mobile Tools
+- [ ] ...
