@@ -5,6 +5,7 @@
 - We will meet to make introductions and form teams based on interests. 
 
 - We will brainstorm goals and develop achievements (badges) for accomplishing establish goals
+	- Our goals can/should come out of the [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla.
 
 - We will explore the tools that will be available
 
@@ -19,4 +20,15 @@
 - We will decide how to publish and share findings
 
 - We will build something (a map)
+
+
+| Exploring | Building | Connecting |
+| :---: | :---: | :---: |
+| Navigation | Composing for the Web | Sharing and Collaborating |
+| Web Mechanics | Remixing | Community Participation |
+| Credibility | HTML/CSS | Privacy |
+| Search | Design and Accessibility | Open Practices |
+| Security | Coding/Scripting | |
+| | Infastructure | | 
+[ [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla ]
 
