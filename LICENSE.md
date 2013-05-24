@@ -1,4 +1,4 @@
-This proposal is also part of the course work for the [Teach the Web](http://hivenyc.org/teachtheweb/) Massive Open Online Course.  [Week 3](http://hivenyc.org/teachtheweb/week-3-the-open-web/#more-332) of the course considers the "Open Web." 
+This proposal is also part of the course work for the [Teach the Web](http://hivenyc.org/teachtheweb/) [Massive Open Online Course](http://hivenyc.org/teachtheweb/).   During the course, participants were asked to consider the "Open Web." 
 
 In the spirit of openness, this proposal is licensed under a Attribution-ShareAlike 3.0 Unported license, meaning that you are free to copy, distribute, transmit and adapt this work for any use (including competition) but that you must credit Lou Buran, Peter Kittle, of the [Northern California Writing Project](www.norcalwp.org/‎) as the original authors of the piece. 
 
