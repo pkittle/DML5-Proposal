@@ -1,7 +1,15 @@
-8. Primary Organizer and Instructor/Mentor profiles (50 words max per profile, 3 required)
+> 8. Primary Organizer and Instructor/Mentor profiles (50 words max per profile, 3 required)
 
-Provide brief profiles of the Primary Organizer, plus key instructors and/or mentors involved in leading the event itself. Each profile should minimally include the following information:
+> Provide brief profiles of the Primary Organizer, plus key instructors and/or mentors involved in leading the event itself. Each profile should minimally include the following information:
 
-full name, institutional affiliation and title;
-a brief description of the person’s role/responsibilities in the program, and a summary of their qualifications for that role (50 words).
+> full name, institutional affiliation and title;
+a brief description of the person’s role/responsibilities in the program, and a summary of their qualifications for that role (50 words).  
+ 
+ 
+<!-- I need help with this... it sounds so blech!  At least it is started -->
+### Lou Buran  
+ - @ljangler  
+ - +ljangler  
+
+Lou Buran is an English Language and Technology teacher at Corning Union High School.  He is also a Teacher Consultant and Connected Learning Liaison with the Northern California Writing Project.  He has been exploring how to use technology to augment his curriculum throughout his career.  He has lead several technology based and writing project based teacher in-services throughout California.   Lou is the co-creator and co-director of this project.  
  
