@@ -19,7 +19,7 @@
 
 - We will decide how to publish and share findings
 
-- We will build something (a map)
+- We will build something (a map or something using QR codes)
 
 
 | Exploring | Building | Connecting |
