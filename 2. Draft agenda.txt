@@ -18,11 +18,8 @@ The audience for the work will be the local public.  We will publicize the parti
 or "Where are the hangouts in our community?"*
 - Participants will aggregate research and write 
 - Participants will use Mozilla Thimble to create a webpage that to publish information regarding the location
-- Participants will publish the location and work on the [Born Brave](http://bornthiswayfoundation.org/map) site
-- Participants will create QR codes that attach to locations and link to the work
-
-
-<<<<<<< HEAD
+- Participants will publish the location on the [Born Brave](http://bornthiswayfoundation.org/map) site
+- Participants will create QR codes that attach to locations and link to the published work
 	
 =======
 - We will decide how to publish and share findings
