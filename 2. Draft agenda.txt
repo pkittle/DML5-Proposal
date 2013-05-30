@@ -22,7 +22,13 @@ or "Where are the hangouts in our community?"*
 - Participants will create QR codes that attach to locations and link to the work
 
 
+<<<<<<< HEAD
 	
+=======
+- We will decide how to publish and share findings
+
+- We will build something (a map or something using QR codes)
+>>>>>>> 16b32024170b1a4d2fdd649d788ddbc66e1668f0
 
 - Our goals come out of the [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla.
 
