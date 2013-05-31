@@ -2,15 +2,16 @@
 
 > Provide a draft agenda for the proposed event.
 
-(*Title of Project*) will bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about locations to publish and promote user created and remixed content.  This project aims to build a bridge between physical locals and networked information.
+##Description
+(*Title of Project*) will bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about locations as a basis to build, publish, and promote media-rich, user-created and remixed web content.  This project aims to build a bridge between physical locals and networked information.
 
-Rather than simply linking to information, participants will be tasked with content creation and content remixing.  They will use simple web creation tools like Mozilla's Thimble to build webpages whose content will be user created.  
+Rather than simply linking to information, participants will be tasked with content creation and content remixing.  They will use simple web creation tools like Mozilla's [Thimble] [thimble] and [PopcornMaker] [pocorn] to build media rich informational webpages.  
 
-The purpose for the participant created content will be to inform about locations that are important culturally to young people.  The focus will be to identify locations where "making" takes place in the community.  Chico is a "maker" friendly town.  Our participants will be encouraged to focus efforts on locations where youth create.  
+The participant created content will inform about locations that are culturally important to young people.  The focus will be to identify locations where "making" takes place in the community.  Chico is a "maker" friendly town.  Participants will be encouraged to focus efforts on locations where youth create.  
 
-The audience for the work will be the local public.  We will publicize the participant created projects by attaching markers(QR codes) that will link physical locations with the web content.  The public will be able to access the participant created content using mobile technology by scanning the code.  A unique relationship will be created through this process where the public will be able to access and contribute to online content.  
+The audience for the work will be the local public.  We will publicize the projects by displaying "matrix barcodes" (QR codes) at locations that will link the physical local with the participant created web content.  The public will use mobile technology by scanning the code to access and interact with the content. A unique relationship will be created through this process betweeen the participants, online audiences, and the local community.  
 
-## Notes 
+##Activities
 
 - Participants will meet to make introductions and form teams based on interests
 - Participants will go do inquiry based research  
@@ -19,15 +20,11 @@ or "Where are the hangouts in our community?"*
 - Participants will aggregate research and write 
 - Participants will use Mozilla Thimble to create a webpage that to publish information regarding the location
 - Participants will publish the location on the [Born Brave](http://bornthiswayfoundation.org/map) site
-- Participants will create QR codes that attach to locations and link to the published work
-	
-=======
-- We will decide how to publish and share findings
+- Participants will create matrix barcodes (QR codes) that attach to locations and link to the published work
 
-- We will build something (a map or something using QR codes)
+###Goals 
 
-
-- Our goals come out of the [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla.
+Our goals come out of the [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla.
 
 | Exploring | Building | Connecting |
 | :---: | :---: | :---: |
@@ -40,19 +37,30 @@ or "Where are the hangouts in our community?"*
 [ [Web Literacy Standards](https://wiki.mozilla.org/Learning/WebLiteracyStandard) developed by Mozilla ]
 
 ###Focused List of Objectives for the Project
+
 1. Exploring
 	- Navigation
-		- 
+		- Participants will navigate through the physical world as well as the digital world.  They will build connections between these "worlds."
+		- Participants will learn to use digital links as well as physical links (QR Codes) to connect published work to an audience
+		
 	- Web Mechanics
+		- Participants will use tools like Mozilla's [Thimble][thimble] and [Popcorn][popcorn] to produce and publish web content meant to inform audiences about a specific locations
 		- 
 2. Building
 	- Composing for the Web
-		- 
+		- Participants will embed media (images, video, audio) into html code
+		- Participants will create link to and between work
 	- Infrastructure
+		- Participants will link and cite resources for information
 		- 
 3. Connecting
 	- Sharing and Collaboration
-		- 
+		- Participants will collaborate in small groups locally and larger groups online 
+		- Participants will publish reflection pieces regarding the work and the learning experience
 	- Community Participation
-		- 
+		- Participants will invite participation from the audience  who will be empowered to add and remix the work.
+		- Participants will publicize their work using local channels, social media, and [subject oriented websites](http://www.makesummer.org/about/)
+		
 
+[thimble]: https://thimble.webmaker.org/en-US/ "Thimble Home Page"
+[popcorn]: https://popcorn.webmaker.org/ "PopcornMaker Home Page"
