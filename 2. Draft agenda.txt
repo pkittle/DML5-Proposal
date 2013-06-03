@@ -5,7 +5,7 @@
 ##Description
 (*Title of Project*) will bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about locations as a basis to build, publish, and promote media-rich, user-created and remixed web content.  This project aims to build a bridge between physical locals and networked information.
 
-Rather than simply linking to information, participants will be tasked with content creation and content remixing.  They will use simple web creation tools like Mozilla's [Thimble] [thimble] and [PopcornMaker] [pocorn] to build media rich informational webpages.  
+Rather than simply linking to information, participants will be tasked with content creation and content remixing.  They will use simple web creation tools like Mozilla's [Thimble] [thimble] and [PopcornMaker] [popcorn] to build media rich informational webpages.  
 
 The participant created content will inform about locations that are culturally important to young people.  The focus will be to identify locations where "making" takes place in the community.  Chico is a "maker" friendly town.  Participants will be encouraged to focus efforts on locations where youth create.  
 
@@ -45,14 +45,14 @@ Our goals come out of the [Web Literacy Standards](https://wiki.mozilla.org/Lear
 		
 	- Web Mechanics
 		- Participants will use tools like Mozilla's [Thimble][thimble] and [Popcorn][popcorn] to produce and publish web content meant to inform audiences about a specific locations
-		- 
+		
 2. Building
 	- Composing for the Web
 		- Participants will embed media (images, video, audio) into html code
 		- Participants will create link to and between work
 	- Infrastructure
 		- Participants will link and cite resources for information
-		- 
+		
 3. Connecting
 	- Sharing and Collaboration
 		- Participants will collaborate in small groups locally and larger groups online 
