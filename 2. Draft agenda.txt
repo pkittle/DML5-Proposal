@@ -3,7 +3,7 @@
 > Provide a draft agenda for the proposed event.
 
 ##Description
-(*Title of Project*) will bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about locations as a basis to build, publish, and promote media-rich, user-created and remixed web content.  This project aims to build a bridge between physical locals and networked information.
+(*Making Connections: Web-based community resourseces made by and for local youth*) will bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about locations as a basis to build, publish, and promote media-rich, user-created and remixed web content.  This project aims to build a bridge between physical locals and networked information.
 
 Rather than simply linking to information, participants will be tasked with content creation and content remixing.  They will use simple web creation tools like Mozilla's [Thimble] [thimble] and [PopcornMaker] [popcorn] to build media rich informational webpages.  
 
