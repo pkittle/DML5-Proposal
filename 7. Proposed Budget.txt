@@ -1,9 +1,20 @@
-> 7. Proposed Budget (required, 2 parts)
+VIIb. Budget Narrative
 
-> 7a. Please use a standard [Budget Spreadsheet form](https://docs.google.com/a/hri.uci.edu/spreadsheet/ccc?key=0AlSMJT_M-dOpdFVGdGVwNnRVTmdoZWZZWkktRkZfTEE#gid=0) to propose a program budget. Budgets should reflect actual event costs (upload, .xls or .pdf format).
+The proposed budget includes categories for Salaries, Benefits, Supplies, Equipment, and Other.
 
-> 7b. Please prepare a Budget Narrative explaining each budget item proposed (text only, 300 words max).
+Salaries and Benefits:
+--The NCWP has a standard pay structure for Teacher-Consultants of $500/day.
+--The Research Foundation at CSU, Chico has established an 11% benefits rate for projects of this nature.
+--Lou Buran, Teacher-Consultant for the NCWP, has taken the lead on the Project:Connect proposal. He co-authored the proposal with Kittle, and will be the lead project facilitator and director. His salary allotment includes the program days as well as a day’s pay for leading the prep work.
+--Lynn Jacobs, Teacher-Consultant, has worked extensively with inquiry-based and project-based learning and has extensive knowledge of teaching with technology. Her allotment covers the three program days. 
+--Peter Kittle, NCWP Director, co-authored the proposal. His allotment will cover the oversight of the graduate student mentors and attendance at the project. Kittle’s NCWP release time will be used for administrative support of the project.
 
-> Please see the [Summer Youth Programming Terms and Conditions](http://dmlcompetition.net/summer-youth-programming/summer-youth-programming-competition-terms-conditions#comp-funds) for a list of allowable expenses.
+Supplies: 
+--Instructional Materials and Copies: Copies will be used for recruitment purposes as well as to support project activities. Instructional materials may include books, consumables, office supplies, and software/apps.
+--Gift Card Prizes for Participants: $25 gift cards for iTunes’ App store or similar will be awarded to participants and graduate student mentors at the conclusion of the program. These will not be publicized beforehand. 
 
-I look forward to learning more about how money is spent in programs like this
+Equipment:
+--iPod Touch (10 @ $299): Students will be conducting field research as part of their inquiry projects. Having a handy, easily portable device with excellent capabilities for photography, voice and video recording will facilitate participants’ work. These will subsequently be used in Buran’s Info-Tech-Literacy class at Corning Union High School.
+
+Other:
+--Food. We plan to feed lunch to participants each Saturday, as well as provide snacks, drinks (non-alcoholic), and desserts for attendees of the celebration on the third Saturday.

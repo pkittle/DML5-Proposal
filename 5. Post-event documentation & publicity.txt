@@ -1,8 +1,8 @@
 V. Post-event documentation & publicity (250 words max, required)
 
-We plan to maintain the work completed by our participants by putting it on an active website that can continue to be edited, remixed, and built upon; we anticipate using a new wordpress site under the NCWP’s comphacker.org domain. By doing this, participants can continue to contribute to the site as they develop new resources. We plan to offer follow-up hackjams three times during the school year to allow youth-participants to re-connect with one another and sustain the community of mentors, youth-participants, teachers, parents, and community members.
+We plan to maintain the work completed by our participants by putting it on an active website that can continue to be edited, remixed, and built upon; we anticipate using a new wordpress site under the NCWP’s CompHacker.org domain. By doing this, participants can continue to contribute to the site as they develop new resources. We will offer follow-up hackjams three times during the school year to allow youth-participants to re-connect with one another and sustain the community of mentors, youth-participants, teachers, parents, and community members.
 
-While sustaining our community of youth-participants will be a priority, we likewise value the spread of the work to other communities: educators, community youth groups, and other like-minded folk. Because the NCWP is part of the National Writing Project, a network of around 200 local sites in the US (and beyond), publicizing the work will include posting to websites and using social media to disseminate links. We will also use local media outlets and the CSU, Chico press office to issue releases about the work. 
+While sustaining our community of participants will be a priority, we likewise value the spread of the work to other communities: educators, community youth groups, and other like-minded folk. Because the NCWP is part of the National Writing Project network of 200 sites in the US (and beyond), publicizing the work will include posting to NWP websites and using social media to disseminate links. We will also use local media outlets and the CSU, Chico press office to issue releases about the work. 
 
 Ideal platforms on which to publicize this work will include:
 
@@ -10,12 +10,10 @@ Ideal platforms on which to publicize this work will include:
 -Teach the Web Communities
 -Summer of Making and Connecting
 -Family Online Safety Institute’s website “A Platform for Good”
--Northern California Writing Project and COMPhacker websites
+-Northern California Writing Project and CompHacker websites
 -Born to Be Brave Foundation’s “The Bravest Map Ever!”
 -Social Networks (Facebook, Twitter, Pinterest, Google+, Edmodo, etc.)
 -Personal and Professional blogs
--Local sites and media
 -Chico Chamber of Commerce
--Chico News and Review weekly newspaper
--Chico Enterprise-Record daily newspaper
--Local television KIXE (PBS), KNVN (NBC), KRCR (ABC), KHSL (CBS)
+-Chico local newspapers
+-Local television and radio stations

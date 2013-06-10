@@ -1,9 +1,19 @@
+
+Making Connections: Community Resources by and for Local Teens
+The Northern California Writing Project
+
+
+Grant Program: 
+Project Connect: Summer Youth Programming Competition
+
+Funder: Digital Media + Learning Competition
+
 I. Program Summary (300 Words max.)
 
-The Northern California Writing Project (NCWP) proposes a three-day connected learning project for students in high school. We propose to bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about specific locations as a basis to build, publish, and promote media-rich, user-created and remixed web content. This project aims to build a bridge between physical locales and networked information.
+The Northern California Writing Project (NCWP) proposes a three-day connected learning project for students in high school. We propose to bring secondary students in the Chico community together to collaborate on a project that aggregates knowledge and information about specific locations as a basis to build, publish, and promote media-rich, user-created and remixed web content. 
 
 Youth today have plenty of knowledge about their communities. Their knowledge, however, is often invisible to the adult world, and even to contemporaries beyond their immediate circle of friends. Our project provides the opportunity for the knowledge of Chico’s teens to become visible and valued through youth-driven, youth-led collaboration and publication. Participants will be empowered by learning methods of content creation and content remixing using tools like Mozilla's Thimble and PopcornMaker to build media-rich, informational websites. They will consider and adopt skills and attitudes that promote digital and civic citizenship.
 
-The youth-created content that emerges from this project will inform the larger Chico community about locations that are culturally important to young people. The focus will be to identify locations where "making" takes place in the community. Chico is a "maker" friendly town where youth have many places to act kindly, safely, and bravely. Participants will be encouraged to focus efforts on locations where youth create in environments that are considered “kind” and “brave.”  
+The youth-created content that emerges from this project will inform the larger Chico community about locations that are culturally important to teens. Participants will identify community attributes that they enjoy and which make them feel safe to be themselves (and Chico has these in abundance: a massive park with swimming holes, mountain biking, and hiking trails; a vibrant downtown with popular stores, community artwork, farmers' markets, and restaurants; myriad community groups focused on outdoor, musical, and artistic pursuits).  Participants will be encouraged to focus efforts on locations where youth create in environments that are considered kind, safe, and brave.  
 
-The audience for the work will be the local public. We will publicize the projects by displaying "matrix barcodes" (QR codes) at locations that will link a physical locale to participant-created web content. The public will use mobile technology by scanning the code to access and interact with the content. A unique relationship will be created through this process between the participants, online audiences, and the local community.
+We will publicize the projects by displaying "matrix barcodes" (QR codes) at locations that will link a physical locale to the participant-created web content. The public will use mobile technology by scanning the code to access and interact with the content. A unique relationship will be created between the participants, online audiences, and the local community.

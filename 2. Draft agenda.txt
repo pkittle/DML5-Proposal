@@ -4,6 +4,32 @@ We propose a 3-day sequence of work for this project. The first two days will be
 
 The project will be co-directed by NCWP Teacher-Consultants Lou Buran and Lynn Jacobs, experienced teachers who use exciting, engaging technology in their classrooms. Graduate students in the CSU, Chico English department who are enrolled in NCWP Director Peter Kittle’s Theories of Literacy seminar will serve the project as mentors, supporting participants’ small group inquiry projects. 
 
+Focused List of Objectives for the Project
+(Our goals come out of the Web Literacy Standards developed by Mozilla.)
+
+By the end of the program, up to 30 youth-participants will demonstrate application of acquired skills:
+
+Exploring
+Navigation
+-navigate through the physical world as well as the digital world
+-build connections between these "worlds"
+-learn to use digital links as well as physical links (QR Codes) to connect published work to an audience
+Web Mechanics
+-utilize tools like Mozilla's Thimble and PopcornMaker to produce and publish   web content meant to inform audiences about a specific locations
+Building
+Composing for the Web
+-embed media (images, video, audio) into html code
+-create link to and between work
+Infrastructure
+-link and cite resources for information
+Connecting
+Sharing and Collaboration
+-collaborate in small groups locally and larger groups online
+-publish reflection pieces regarding the work and the learning experience
+Community Participation
+-invite participation from the audience who will be empowered to add and remix the work
+-publicize their work using local channels, social media, websites, and special events
+
 Day 1: Participants will:
 -make introductory websites using Mozilla Thimble, learning about coding and issues of representation and privacy in online settings
 -remix one another’s introductory websites using PopcornMaker, learning about copyright, sharing, and attribution issues
@@ -27,27 +53,3 @@ Day 3: Participants will:
 -network with project leaders, mentors, and community members to find partners for sustaining the work
 
 
-
-Focused List of Objectives for the Project
-(Our goals come out of the Web Literacy Standards developed by Mozilla.)
-
-Exploring
-Navigation
--navigate through the physical world as well as the digital world
--build connections between these "worlds"
--learn to use digital links as well as physical links (QR Codes) to connect published work to an audience
-Web Mechanics
--utilize tools like Mozilla's Thimble and PopcornMaker to produce and publish   web content meant to inform audiences about a specific locations
-Building
-Composing for the Web
--embed media (images, video, audio) into html code
--create link to and between work
-Infrastructure
--link and cite resources for information
-Connecting
-Sharing and Collaboration
--collaborate in small groups locally and larger groups online
--publish reflection pieces regarding the work and the learning experience
-Community Participation
--invite participation from the audience who will be empowered to add and remix the work
--publicize their work using local channels, social media, websites, and special events
