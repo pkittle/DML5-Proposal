@@ -1,8 +1,5 @@
-> 4. Ensuring participation (100 words max, required)
+IV. Ensuring participation (100 words max, required)
 
-> Briefly discuss factors that may limit participant turnout, and describe measures to be taken to ameliorate these constraints. For example, where local transportation may be difficult or expensive, measures could be taken to provide local transportation for participants by supplying city bus passes, etc.
+Chico is a university town with a population that values rich educational experiences. As such, this program should be attractive to both students and parents. Transportation should be a non-issue: unlike large urban spaces, getting around Chico is straightforward, with simple and efficient public transport and myriad bike routes that facilitate youthful transit in the city.
 
-Chico is a university town with a population that values rich educational experiences. As such, this program should be attractive to both students and parents. The NCWP is an organization of teachers, so getting the word out to the community will not be a problem. 
-
-Perhaps the idea of spending a full day indoors during the beautiful Chico summer might discourage some participation.  We can emphasize that this program mixes web development with ["AFK"](http://www.urbandictionary.com/define.php?term=afk) activities where participants are going to explore the community actively and physically.
-
+Perhaps the idea of spending three Saturdays indoors during students’ precious weekends might discourage some participation. We will emphasize that this program mixes web development with "Away From Keyboard" activities where participants will be conducting hands-on inquiry into the community in active, physical ways.
